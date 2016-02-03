@@ -1,6 +1,6 @@
 name: 'C&R Preferred, LLC '
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.54786
 typography_spectrum: 0.75189
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#8a8068'
     - '#ebecf0'
     - '#232323'
-  brandStrength: 0.5
+  brandStrength: 1
   lightness: 0.75
   saturation: 0.5
   rhythmicContrast: 0.25
