@@ -21,7 +21,7 @@ color:
     - '#000000'
     - '#555555'
     - '#cacad5'
-  brandStrength: 0
+  brandStrength: 0.25
   lightness: 0
   saturation: 0
   rhythmicContrast: 0
