@@ -18,11 +18,11 @@ color:
   brandColors:
     - '#ccd6df'
     - '#3d5c80'
+    - '#fefefe'
     - '#6287aa'
     - '#1e2735'
-    - '#b19a8e'
-  brandStrength: 0
-  lightness: 0.5625
-  saturation: 0
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0
 purpose: []
