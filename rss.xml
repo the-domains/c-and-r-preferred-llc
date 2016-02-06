@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[C&R Preferred, LLC ]]></title>
         <description><![CDATA[C&R Preferred, LLC ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/c-and-r-preferred-llc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 05:11:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 05:12:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/c-and-r-preferred-llc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4776cca9-49bb-4d83-b501-a1751380c629.jpg">]]></description>
+            <link>https://thegrid.ai/c-and-r-preferred-llc/31ebb346-46dd-40b6-8abc-e920f4f18fc1/index.html</link>
+            <guid isPermaLink="false">31ebb346-46dd-40b6-8abc-e920f4f18fc1</guid>
+            <pubDate>Sat, 06 Feb 2016 05:11:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/66c5d554-1d13-469e-baf4-cb5772922d43.png">]]></description>
-            <link>undefined5be3c88d-ec5d-400e-abf5-346e68255b70/index.html</link>
+            <link>https://thegrid.ai/c-and-r-preferred-llc/5be3c88d-ec5d-400e-abf5-346e68255b70/index.html</link>
             <guid isPermaLink="false">5be3c88d-ec5d-400e-abf5-346e68255b70</guid>
             <pubDate>Sat, 06 Feb 2016 05:11:32 GMT</pubDate>
         </item>
